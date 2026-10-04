@@ -1,0 +1,14 @@
+{
+  "name": "Despensa Fit",
+  "short_name": "Despensa Fit",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F7F3",
+  "theme_color": "#2C8A5F",
+  "lang": "es",
+  "icons": [
+    {"src": "icon-180.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
